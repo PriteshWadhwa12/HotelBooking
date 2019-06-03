@@ -1,0 +1,60 @@
+/* Created on : 22 Feb, 2019, 11:08:28 PM
+    Author     : Pritesh Wadhwa
+*/
+
+.jumbotron
+{
+    background-image: url(images/bank18.jpg);
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    background-size: 100%;
+    background-position: center;
+    background-position-x: 50%;
+    color: white;   
+    padding: 100px 25px;
+    background-color: black;    
+}
+.container-fluid
+{
+    padding: 60px 50px;
+}
+.logo{
+    font-size: 200px;
+    color: black;
+    
+}
+.logo1
+{
+    font-size: 100px;
+    color: black;
+}
+.logo2
+{
+    font-size: 200px;
+    color: aqua;    
+}
+.logo3
+{
+    font-size: 100px;
+    color: red;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+ footer
+ {
+     background-image: url(images/img_3.jpg);
+     background-repeat: no-repeat;
+      background-size: 1650px;
+      color: black;
+ }
+ footer .glyphicon
+ 
+ {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: black;
+ }

@@ -1,0 +1,29 @@
+/* 
+    Created on : 28 Feb, 2019, 8:50:45 PM
+    Author     : Pritesh Wadhwa
+*/
+.jumbotron
+{
+ background-image: url(images/dubai.jpg);
+ 
+ background-repeat: no-repeat;
+ background-size: 1370px;
+ color: black;
+ padding: 85px 25px;
+}
+footer
+ {
+     background-image: url(images/img_3.jpg);
+     background-repeat: no-repeat;
+      background-size: 1650px;
+      color: black;
+ }
+ footer .glyphicon
+ 
+ {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: black;
+ }
+
+
